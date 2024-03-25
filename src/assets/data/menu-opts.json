@@ -1,0 +1,27 @@
+[
+    {
+        "icon": "american-football",
+        "name": "Action-Sheet",
+        "redirecTo": "/action-sheet"
+      },
+      {
+        "icon": "flower-outline",
+        "name": "Alert",
+        "redirecTo": "/alert"
+      },
+      {
+        "icon":"beaker-outline",
+        "name": "Avatar",
+        "redirecTo":"/avatar"
+      },
+      {
+        "icon":"radio-button-off-outline",
+        "name": "Botones",
+        "redirecTo":"/button"
+      },
+      {
+        "icon":"card-outline",
+        "name": "Cards",
+        "redirecTo":"/card"
+      }
+]
